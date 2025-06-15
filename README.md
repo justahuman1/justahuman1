@@ -24,7 +24,7 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 
 - [**i3grid**](https://github.com/justahuman1/i3grid): A dynamic window tiling extension for i3wm, making power-users' lives a little (or a lot) easier. Loved by the i3 community!
 - **RAG Stacks & Frameworks:** Deployed complex AI-driven search infra for multiple large-scale deployments.
-- **Frameworks @ Apple & AWS:** Engineered robust, high-performance frameworks that empower teams across the org.
+- **Frameworks @ Apple & AWS:** Engineered robust, high-performance frameworks and developer tools that empower teams across the org.
 
 ### 🤹 Fun Facts
 
