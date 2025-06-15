@@ -15,7 +15,7 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 
 ### 🛠️ Tech Toolbox
 
-- **Languages:** Java, Rust, Go, Python, JavaScript
+- **Languages:** Java, Rust, Go, Python, JavaScript, TLA+
 - **Storage Systems:** Distributed object storage, high-availability architectures
 - **Database Internals & Algorithms:** Storage models (row store, column store, LSM), query optimization, indexing, replication, Raft/Paxos consensus, consistency and fault tolerance
 - **AI/ML:** Hybrid semantic search, RAG evaluations, OpenAI-compatible LLMs, agent orchestration
