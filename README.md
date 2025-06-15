@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 - **Deep Debugging:** Investigating and resolving gnarly issues in multi-layered, multi-network environments.
 - **Distributed Systems Algorithms & Database Internals:** Working with consensus (Raft, Paxos), replication, consistency models, and deep dives into storage engines (row store, column store, LSM engines), indexing, and request processing lifecycle.
 - **AI & RAG Stacks:** Designing advanced Retrieval-Augmented Generation systems with hybrid semantic search and LLM-compatible agent servers.
-- **Framework Development:** Shipping frameworks adopted by teams at Apple, AWS, and more.
+- **Framework Development:** Shipping frameworks and developr tools adopted by teams across Apple, AWS, Uber, and more.
 
 ### 🛠️ Tech Toolbox
 
