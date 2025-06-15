@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Hi, I'm justahuman1!
 
-<!--
-**justahuman1/justahuman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Distributed Systems Storage Engineer | Exabyte-Scale Object Storage
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building and scaling distributed storage systems that push the boundaries of what's possible. Currently, I engineer and optimize exabyte-scale object storage platforms—solving performance puzzles, scaling for the impossible, and debugging the sort of complex multi-network systems that keep most folks up at night (but I sleep just fine, promise).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I Do
+
+- **Performance Tuning:** Squeezing every last drop out of large-scale storage systems.
+- **Scaling Challenges:** Architecting for growth, from petabytes to exabytes (and beyond).
+- **Deep Debugging:** Investigating and resolving gnarly issues in multi-layered, multi-network environments.
+- **AI & RAG Stacks:** Designing advanced Retrieval-Augmented Generation systems with hybrid semantic search and LLM-compatible agent servers.
+- **Framework Development:** Shipping frameworks adopted by teams at Apple, AWS, and more.
+
+### 🛠️ Tech Toolbox
+
+- **Languages:** Java, Rust, Go, Python, JavaScript
+- **Storage Systems:** Distributed object storage, high-availability architectures
+- **AI/ML:** Hybrid semantic search, RAG evaluations, OpenAI-compatible LLMs, agent orchestration
+
+### 🌟 Featured Projects
+
+- [**i3grid**](https://github.com/justahuman1/i3grid): A dynamic window tiling extension for i3wm, making power-users' lives a little (or a lot) easier. Loved by the i3 community!
+- **RAG Stacks & Frameworks:** Deployed complex AI-driven search infra for multiple large-scale deployments.
+- **Frameworks @ Apple & AWS:** Engineered robust, high-performance frameworks that empower teams across the org.
+
+### 🤹 Fun Facts
+
+- I love untangling distributed system mysteries and making things run fast—even when they’re really, really big.
+- My code sometimes ends up in places I never expected (hello, random i3 user from across the globe!).
+- I believe the right emoji can make any documentation more readable. (See? 🧐)
+
+---
+
+> “Distributed systems: because one computer is never enough.”
+
+Feel free to connect, collaborate, or just say hi!
