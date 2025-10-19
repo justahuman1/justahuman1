@@ -2,7 +2,7 @@
 
 ## Distributed Systems Storage Engineer | Exabyte-Scale Object Storage
 
-Welcome to my GitHub! I'm passionate about building and scaling distributed storage systems that push the boundaries of what's possible. Currently, I engineer and optimize exabyte-scale object storage platforms—solving performance puzzles, scaling for the impossible, and debugging the sort of complex multi-network systems that keep most folks up at night (I sleep just fine, promise).
+Welcome to my GitHub! I'm passionate about building and scaling distributed storage systems that push the boundaries of modern hardware. Currently, I engineer and optimize exabyte-scale object storage platforms—solving performance puzzles, scaling for exabytes, and debugging the sort of complex multi-network systems that sometimes keeps me up at night.
 
 ### 🚀 What I Do
 
@@ -28,12 +28,7 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 
 ### 🤹 Fun Facts
 
-- I love untangling distributed system mysteries and making things run fast—even when they’re really, really big.
-- My code sometimes ends up in places I never expected (hello, random i3 user from across the globe!).
-- I believe the right emoji can make any documentation more readable. (See? 🧐)
-
----
-
-> “Distributed systems: because one computer is never enough.”
+- Debugging distributed system mysteries and making things run fast are some of my favorite parts of my work
+- My code sometimes ends up in places I never expected (hello, random i3 user)
 
 Feel free to connect, collaborate, or just say hi!
