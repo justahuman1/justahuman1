@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 - **Framework Development:** Shipping frameworks and developer tools adopted by teams across Apple, AWS, Uber, and more.
 - **Performance Tuning:** Squeezing every last drop out of large-scale storage systems. JVM GC analysis, flame graphs, network tracing, etc.
 - **Scaling Challenges:** Architecting for growth, from petabytes to exabytes (and beyond).
-- **Deep Debugging:** Investigating and resolving gnarly issues in multi-layered, multi-network environments.
+- **Deep Debugging:** Investigating and resolving issues in multi-service, multi-network environments.
 
 ### Tech 
 
