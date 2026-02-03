@@ -2,11 +2,11 @@ Welcome to my GitHub! I'm passionate about building and scaling distributed stor
 
 ### What I Do
 
-- **Distributed Systems Algorithms & Database Internals:** Working with consensus (Raft, Paxos), replication, consistency models, and deep dives into storage engines (row store, column store, LSM engines), indexing, and request processing lifecycle.
-- **AI & RAG Stacks:** Designing advanced Retrieval-Augmented Generation systems with hybrid semantic search and LLM-compatible agent servers.
+- **Distributed Systems & Database Internals:** Working with replication (Raft, Paxos), consistency models, and deep dives into storage engines (row store, column store, LSM engines), indexing, and request processing lifecycle.
 - **Framework Development:** Shipping frameworks and developer tools adopted by teams across Apple, AWS, Uber, and more.
 - **Performance Tuning:** Trying to save every watt used by the CPU for a greener planet 🌎. GC analysis, flame graphs, network tracing, etc.
 - **Scaling Challenges:** Architecting for growth, from petabytes to exabytes (and beyond).
+- **AI & RAG Stacks:** Designing advanced Retrieval-Augmented Generation systems with hybrid semantic search and LLM-compatible agent servers.
 - **Deep Debugging:** Investigating and resolving issues in multi-service, multi-network environments.
 
 ### Tech 
